@@ -1,0 +1,114 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "title": "RENGA #4241",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1.21,
+      "last_sale": 1.14,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91/4241",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC1",
+      "thumbnail": "https://i.seadn.io/gcs/files/9e15eecb0e1302ca1251f8dcc5da05ae.jpg?auto=format&w=1000"
+    },
+    {
+      "id": 2,
+      "title": "RENGA #4544",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91/4544",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC1",
+      "thumbnail": "https://i.seadn.io/gcs/files/8a99466c4094c08b02bd17df0a6c83c7.jpg?auto=format&w=1000"
+    },
+    {
+      "id": 3,
+      "title": "RENGA #1800",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91/1800",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gcs/files/28864bec102ab76bb8209dd7b135a3b3.jpg?auto=format&w=384"
+    },
+    {
+      "id": 4,
+      "title": "Citizen #1388",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0xb668beb1fa440f6cf2da0399f8c28cab993bdd65/1388",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gcs/files/27e117773fb22c60f9bab3130f9490ec.png?auto=format&w=384"
+    },
+    {
+      "id": 5,
+      "title": "Citizen #2969",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0xb668beb1fa440f6cf2da0399f8c28cab993bdd65/2969",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gae/qVJM3yvmbatbXea2ow2dhtrWYJbGyndSHgXcwgKqKQ6Q0TgD6oUg6F9f_nolFr4H9MkuQKE-3u9nq08MFotakrqmGg_xB5-EQgbymeY?auto=format&w=384"
+    },
+    {
+      "id": 6,
+      "title": "Harambe: Legends #1",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x46e614fdd08091e532d39a079d0d027155228998/156",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC1",
+      "thumbnail": "https://i.seadn.io/gcs/files/063cc4937344dbde82061c09a1421914.jpg?auto=format&w=384"
+    },
+    {
+      "id": 7,
+      "title": "Metascapes #2060",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x75d639e5e52b4ea5426f2fb46959b9c3099b729a/2060",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gae/I9-T9hEWwpV06nbY9leoy_haqYERiLOUqwXz9Q50bDtJvpQXqFGthZ0a7RkZKA6QBi6M2V83H7Ri7MZI85SmKIuZgn1m6ldjy4k3bA?auto=format&w=384"
+    },
+    {
+      "id": 8,
+      "title": "Metascapes #1718",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x75d639e5e52b4ea5426f2fb46959b9c3099b729a/1718",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC1",
+      "thumbnail": "https://i.seadn.io/gae/qoD-lL6rJ5dUbA_Je_Q7yeIES-3k7zVkWI-LtlP3bgr4--KBoZDb8V_my5gKGCiPqrJfyl9yKt_6tIXmjqisYKHLE79a75-RRZhg7w?auto=format&w=384"
+    },
+    {
+      "id": 9,
+      "title": "Metascapes #379",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x75d639e5e52b4ea5426f2fb46959b9c3099b729a/379",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gae/4EA1JwmWJ8GREGYvdDQmA2ddcsFm8yJcvLfTcyxSnZY5VDTyhdmSjq43eDd3bkIZEnhXfPCJhb-8-VkTGpOF-qdgr3z-N_i4sYGEDA?auto=format&w=384"
+    },
+    {
+      "id": 10,
+      "title": "Metascapes #1009",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "last_sale": 4.69,
+      "currency": "ETH",
+      "url": "https://opensea.io/assets/ethereum/0x75d639e5e52b4ea5426f2fb46959b9c3099b729a/1009",
+      "ownerAddress": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "thumbnail": "https://i.seadn.io/gae/c3oJkfNxjIZ5MWon6ryzyBcqnIr0_bVhbexI4gHwPTQ4DuA2M8BPyljwjmdDUg6mbJfaKxPNHhfcGDW24LEmAlA3HpM0iTHpiD-s?auto=format&w=384"
+    }
+  ]
+}
